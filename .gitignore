@@ -1,0 +1,17 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+
+# Secrets & local config
+.env
+
+# Generated data
+.chromadb
+
+# Sample/test codebase used for indexing experiments
+sample_project
